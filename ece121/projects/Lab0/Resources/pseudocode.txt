@@ -1,0 +1,46 @@
+
+main.c:
+
+//Initialize software and hardware modules -- activate LEDs and buttons, #define each LED and button for simplicity
+//Initialize variables -- uint8_t LEDbits, #define NOPDELAY
+
+int main() {
+while () {
+	setLEDBits(LEDbits++)      // writes current counter value to LEDs, then increments the counter
+	if buttonPressed() == TRUE
+		resetLEDs()
+	if LEDbits > 0xFF      
+		resetLEDs()
+	NOPdelay_250ms()           // Delays while loop until 250ms is reached -- repeats a smaller 5ms delay 50 times and checks buttons
+  }
+}
+
+setLEDBits() {
+	LEDs = LEDbits;
+}
+
+buttonPressed() {
+	uint8_t = buttonValues;
+	*returns a boolean value*    //a uint8_t that is or isnt 0
+}
+
+resetLEDs() {             //set counter to 0 and update the LEDs
+	LEDbits = 0
+	setLEDBits()
+}
+
+NOPdelay_5ms() {   //using provided code
+	int i;
+	for(i=0;i < NOPS_FOR_5MS; i++)    //NOPS_FOR_5MS will be a #define value
+		asm("nop")
+}
+
+NOPdelay_250ms() {   //using provided code
+	NOPdelay_5ms is ran 50 times. For each iteration:
+		if buttonPressed() == TRUE
+			resetLEDs()
+}
+
+
+
+

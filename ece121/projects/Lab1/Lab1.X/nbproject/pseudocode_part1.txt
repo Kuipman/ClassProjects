@@ -1,0 +1,28 @@
+#broad
+
+main()
+{
+    Clear the control registers for UART1
+    Calculate the Baud Rate Generator Value to generate 115200
+    Set UART 1 for 8-N-1
+    Enable UART 1
+    Enable Transmission (TX)
+    Enable Reception (RX)
+}
+
+#-1
+
+main()
+{
+    initializeUART(BAUD);
+    {
+        Clear Control Registers for UART1
+        Calculate baud rate generator (using BAUD)
+        Set UART 1 for 8-N-1
+    }
+    enableTXRX();
+    {
+        Enable Transmission (TX)
+        Enable Reception(RX)
+    }
+}

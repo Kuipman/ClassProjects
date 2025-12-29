@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -fno-common -I"../../../include" -I"../../../templates"   -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  C:\Users\nkuipers\Documents\ece118_labs\Projects\Lab 0\Lab0_RoachExploration.X\RoachExploration.c
