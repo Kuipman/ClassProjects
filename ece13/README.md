@@ -5,7 +5,7 @@ Class Description:
 
 This course was my first forray into embedded systems programming using the PIC32 development kit ([not this specific one but close](https://www.digikey.com/en/products/detail/microchip-technology/EV16W43A/21803091)). A total of 9 lab assignments were assigned that covered everything from building a basic C executable (using make) and flashing to the devkit to interfacing with the various devkit peripherals to eventually creating a BattleBoats game AI that successfully beats the classroom staff AI.
 
-The individual labs are briefly described below. They are described in further detail in their individual directories.
+The individual labs are briefly described below. They are described further along with their respective retrospectives in their individual directories
 
 ## Lab 1: Compiling, Running, and Debugging
 
