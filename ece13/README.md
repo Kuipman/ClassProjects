@@ -1,7 +1,7 @@
 # ece13: Computer Systems and C Programming
 
 Class Description: 
->Computer Systems and C Programming is intended to bring students up to speed on programming small and large programs in C. Originally written in 1978, C remains the most popular programming >language, and the most used one in terms of numbers of computer programs written in it. The course approaches C from an embedded paradigm, and all programming assignments are on a 32-bit embedded micro, the Microchip PIC32. Students learn how to program in C, how to write modular code, and some of the tips and tricks when dealing with an embedded micro.
+>Computer Systems and C Programming is intended to bring students up to speed on programming small and large programs in C. Originally written in 1978, C remains the most popular programming language, and the most used one in terms of numbers of computer programs written in it. The course approaches C from an embedded paradigm, and all programming assignments are on a 32-bit embedded micro, the Microchip PIC32. Students learn how to program in C, how to write modular code, and some of the tips and tricks when dealing with an embedded micro.
 
 This course was my first forray into embedded systems programming using the PIC32 development kit ([not this specific one but close](https://www.digikey.com/en/products/detail/microchip-technology/EV16W43A/21803091)). A total of 9 lab assignments were assigned that covered everything from building a basic C executable (using make) and flashing to the devkit to interfacing with the various devkit peripherals to eventually creating a BattleBoats game AI that successfully beats the classroom staff AI.
 
