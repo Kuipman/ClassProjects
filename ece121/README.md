@@ -27,4 +27,8 @@ your device driver.
 
 This lab is the first real forray into exercising actual embedded engineering principles in designing and developing an actual communications protocol that would be used to interface with an embedded system. Before a single line of code could be written this required extensive research into UART and communications protocols to understand the packet structure required for the design and how to leverage the UART peripheral on the PIC32 for transmitting and receiving these packets. Learning to read a user manual and datasheet for a development kit was essential for incorporating this design onto the PIC32 specifically. and referencing the PIC32 datasheet to interact with its interrupt protocols and UART peripheral.
 
-This project served as a major filter for the classroom at large -- roughly 40% students were unable to complete this lab until the very end of the class.
+The UART driver and packet protocol built in this lab are intended to serve as the baseline for the remainder of coursework in this class, including Lab 2.
+
+## Lab 2: R/C Servo, Rotary Encoder, and Pulse Width I/O
+
+This lab builds upon the communications protocol from Lab 1 to allow for an interface with a Python application on a laptop. This application serves to drive a series of motors, which requires a separate series of drivers to interact with an R/C servo via Pulse Width Modulation (PWM). The Python program activates the motors and drives them a particular direction, while a rotary encoder peripheral (attached to the PIC32 I/O shield) dictates the speed at which the motors spin.
