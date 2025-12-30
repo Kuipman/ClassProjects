@@ -25,6 +25,6 @@ This lab is separated into three parts:
 driver library to send and receive data bytes over the serial link to demonstrate basic functionality of
 your device driver.
 
-This lab required extensive research into UART, communications protocols, and the PIC32 datasheet to interact with its interrupt protocols and UART peripheral.
+This lab is the first real forray into exercising actual embedded engineering principles in designing and developing an actual communications protocol that would be used to interface with an embedded system. Before a single line of code could be written this required extensive research into UART and communications protocols to understand the packet structure required for the design and how to leverage the UART peripheral on the PIC32 for transmitting and receiving these packets. Learning to read a user manual and datasheet for a development kit was essential for incorporating this design onto the PIC32 specifically. and referencing the PIC32 datasheet to interact with its interrupt protocols and UART peripheral.
 
-This project served as a major filter for the classroom at large -- many students were unable to complete this lab until the very end of the class.
+This project served as a major filter for the classroom at large -- roughly 40% students were unable to complete this lab until the very end of the class.
