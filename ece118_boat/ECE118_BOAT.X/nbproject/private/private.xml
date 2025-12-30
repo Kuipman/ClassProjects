@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/BumperService.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/BumperService.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/ece118_labs/src/EventChecker.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/BOAT_Movement.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/TapeAndTrackService.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/BeaconService.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/BOAT_Movement.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/ES_Configure.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/BOAT_HSM.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/TapeAndTrackService.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/BOAT_SubHSM_Orienting.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/BOAT.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/ece118_labs/include/ES_Configure.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/BOAT.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/BOAT_SubHSM_Orienting.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/BOAT_Sensors.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/BOAT_Launcher.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/BOAT_Sensors.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/BOAT_PinDefs.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/BOAT_HSM.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/BeaconService.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/include/EventChecker.h</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/ES_Main.c</file>
+            <file>file:/C:/Users/student/Documents/ECE118%20-%20Mechatronics/Final%20Project/ece118_boat/src/EventChecker.c</file>
+        </group>
+    </open-files>
+</project-private>
